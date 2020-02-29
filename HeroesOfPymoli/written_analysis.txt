@@ -1,0 +1,9 @@
+~Heroes of Pymoli written analysis~
+
+CONCLUSIONS 
+1. Significantly more players are male (84.03%) compared to female and other. Despite this, the "Female" and "Other" categories each spend more on average per person than "Male." $4.47 and $4.56 respectively compared to "Male" at $4.07.
+
+2. At 44.79%, players age 20-24 are, by far, the largest age category. Furthermore, players age 15-30 make up over three-quarters off all players (76.75%).
+
+3. 'Pursuit, Cudgel of Necromancy' is one of the most bought products. It has been purchased eight times. It is possible that its relatively low price point ($1.02) accounts for its popularity. 
+
